@@ -1,0 +1,14 @@
+﻿<Window x:Class="Circusdieren.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Circusdieren"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <GroupBox Header="Voeg dier toe" HorizontalAlignment="Left" Height="238" Margin="10,10,0,0" VerticalAlignment="Top" Width="287"/>
+        <ListBox x:Name="Treinen_list" HorizontalAlignment="Left" Height="238" Margin="357,10,0,0" VerticalAlignment="Top" Width="110"/>
+
+    </Grid>
+</Window>

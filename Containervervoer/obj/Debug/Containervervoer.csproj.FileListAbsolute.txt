@@ -1,0 +1,15 @@
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\bin\Debug\Containervervoer.exe.config
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\bin\Debug\Containervervoer.exe
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\bin\Debug\Containervervoer.pdb
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.csprojAssemblyReference.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\MainWindow.g.cs
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\App.g.cs
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer_MarkupCompile.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer_MarkupCompile.lref
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\MainWindow.baml
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.g.resources
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.Properties.Resources.resources
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.csproj.GenerateResource.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.csproj.CoreCompileInputs.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.exe
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Containervervoer\obj\Debug\Containervervoer.pdb

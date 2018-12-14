@@ -1,0 +1,15 @@
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\bin\Debug\Circusdieren 2.exe.config
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\bin\Debug\Circusdieren 2.exe
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\bin\Debug\Circusdieren 2.pdb
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2.csprojAssemblyReference.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\MainWindow.g.cs
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\App.g.cs
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2_MarkupCompile.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2_MarkupCompile.lref
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\MainWindow.baml
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2.g.resources
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren_2.Properties.Resources.resources
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2.csproj.GenerateResource.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2.csproj.CoreCompileInputs.cache
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2.exe
+C:\Users\Paul_Laptop\Documents\Fontys\S2\S2 Repos\Circusdieren\Circusdieren 2\obj\Debug\Circusdieren 2.pdb
